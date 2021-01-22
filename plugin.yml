@@ -1,0 +1,12 @@
+name: DeathSwapMultiple
+version: 1.1
+author: damine
+main: temp.damine.minecraft.Main
+description: Minecraft Death Swap
+commands:
+  startswap:
+    description: Starts the Death Swap
+    usage: /<command> [players/@a]... will default to all online players
+  endswap:
+    description: Ends the Death Swap
+    usage: /<command>
