@@ -10,9 +10,9 @@ Minecraft Death Swap that work with multiple people. Every 5 minutes you are ran
 `
 
 Will start the swap. Arguments defaulted to all players currently on the server
-
+`
 /endswap
-
+`
 Will end the swap
 
 ## Upcoming Features
